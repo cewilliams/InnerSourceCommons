@@ -10,7 +10,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 	<link rel="stylesheet" type="text/css" href="/InnerSourceCommons/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="/InnerSourceCommons/assets/css/style.css">
+
 	<script src="/InnerSourceCommons/assets/js/modernizr.min.js"></script>
+    <script src="/InnerSourceCommons/assets/js/events.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -243,6 +246,11 @@
 
                       
 
+                      <li><a  href="/InnerSourceCommons/resources/books" >Books</a></li>
+                    
+
+                      
+
                       <li><a  target="_blank" href="https://github.com/paypal/InnerSourceCommons/wiki" >Wiki</a></li>
                     
 
@@ -254,11 +262,6 @@
                       
 
                       <li><a  href="/InnerSourceCommons/events/" >Events</a></li>
-                    
-
-                      
-
-                      <li><a  href="/InnerSourceCommons/checklist/" >Checklist</a></li>
                     
                   </ul>
 
