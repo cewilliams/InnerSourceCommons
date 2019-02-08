@@ -210,7 +210,7 @@
 
                       
 
-                      <li><a  href="/InnerSourceCommons/events/isc-spring-2018" >EU Summit Spring 2018</a></li>
+                      <li><a  href="/InnerSourceCommons/events/isc-spring-2019" >EU Summit Spring 2019</a></li>
                     
 
                       
@@ -247,6 +247,11 @@
                       
 
                       <li><a  href="/InnerSourceCommons/resources/books" >Books</a></li>
+                    
+
+                      
+
+                      <li><a  href="/InnerSourceCommons/resources/learningpath/" >Learning Path</a></li>
                     
 
                       
